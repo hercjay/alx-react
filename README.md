@@ -1,2 +1,2 @@
-# alx-react
-ALX React course repo
+# alx-react by hercjay : ALX React course repo
+
